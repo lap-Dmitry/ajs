@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lap-Dmitry/ajs.git"
+    "url": "git+https://github.com/lap-dmitry/ajs.git"
   },
   "author": "Dmitry",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lap-Dmitry/ajs/issues"
+    "url": "https://github.com/lap-dmitry/ajs/issues"
   },
-  "homepage": "https://github.com/lap-Dmitry/ajs#readme",
+  "homepage": "https://github.com/lap-dmitry/ajs#readme",
   "devDependencies": {
     "@babel/cli": "^7.14.8",
     "@babel/core": "^7.14.8",
